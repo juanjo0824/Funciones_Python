@@ -1,0 +1,1 @@
+# Construir una función como parámetro una lista de datos numericos y que retorne  el promedio de dichos datos

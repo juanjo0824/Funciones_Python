@@ -1,0 +1,1 @@
+# Construir una función que reciba una cadena digitada (como parámetro)por el usuario y que lo muestre n veces en la pantalla . El valor de n tambien es digitado por el usuario.
